@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=1">
+
+    <link rel="shortcut icon" href="./capmusic.png?" type="image/x-icon">
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <title>Cap Music</title>
+</head>
+<body>
+    <main>
+        <section class="fav" id="fav"></section>
+        <section class="secMid">
+            <section class="mainSec" id="mainSec"></section>
+        <section class="player">
+            <div class="playerContainer">
+                <div class="playerContent">
+                    <audio src="" id="audio"></audio>
+                    <div class="progress">
+                        <input type="range" id="progressBar" min="0" value="0">
+                        <button id="repeatAll"><img src="./assets/imgs/repeat.svg" alt=""></button>
+                        <button id="listQueue"><img src="./assets/imgs/queue.svg" alt=""></button>
+                        <button id="favList"><img src="./assets\imgs\favoritelist.png" alt=""></button>
+
+                        <div class="duration">
+                            <span id="start">00:00</span>
+                            <span id="duration">00:00</span>
+                        </div>
+                    </div>
+                    <div class="Btns">
+                        <button id="prev"><img src="./assets/imgs/previous.png" alt=""></button>
+                        <button id="playButton"><img src="./assets/imgs/play.png" alt=""></button>
+                        <button id="next"><img src="./assets/imgs/next.png" alt=""></button>
+                    </div>
+                </div>
+            </div>
+        </section>
+        </section>
+        <section class="secLast" id="playList2">
+            <div class="search">
+                <form action="" class="searchform">
+                    <input type="text" placeholder="find your new song" name="" id="searchinput">
+                    <button id="searchBtn"><img src="./assets/imgs/search.svg" alt=""></button>
+                </form>
+                <button id="theme"><img src="./assets/imgs/dark.png" alt=""></button>
+            </div>
+            <section class="playlist" id="playList"></section>
+        </section>
+        
+    </main>
+    <script src="./assets/Js/script.js" type="module"></script>
+</body>
+</html>
