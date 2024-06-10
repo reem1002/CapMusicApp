@@ -1,0 +1,430 @@
+[
+    {
+        "name": "TalkinToys - Be My First One",
+        "path": "./assets/music/TalkinToys - Be My First One.mp3",
+        "artist": "TalkinToys",
+        "title": "Be My First One"
+    },
+    {
+        "name": "TalkinToys - Bleeding",
+        "path": "./assets/music/TalkinToys - Bleeding.mp3",
+        "artist": "TalkinToys",
+        "title": "Bleeding"
+    },
+    {
+        "name": "TalkinToys - Cold Summer",
+        "path": "./assets/music/TalkinToys - Cold Summer.mp3",
+        "artist": "TalkinToys",
+        "title": "Cold Summer"
+    },
+    {
+        "name": "TalkinToys - Commodity",
+        "path": "./assets/music/TalkinToys - Commodity.mp3",
+        "artist": "TalkinToys",
+        "title": "Commodity"
+    },
+    {
+        "name": "TalkinToys - Lovers Graveyard",
+        "path": "./assets/music/TalkinToys - Lovers Graveyard.mp3",
+        "artist": "TalkinToys",
+        "title": "Lovers Graveyard"
+    },
+    {
+        "name": "TalkinToys - Out Of Hell",
+        "path": "./assets/music/TalkinToys - Out Of Hell.mp3",
+        "artist": "TalkinToys",
+        "title": "Out Of Hell"
+    },
+    {
+        "name": "TalkinToys - Quiet",
+        "path": "./assets/music/TalkinToys - Quiet.mp3",
+        "artist": "TalkinToys",
+        "title": "Quiet"
+    },
+    {
+        "name": "Tamino - Habibi",
+        "path": "./assets/music/Tamino - Habibi.mp3",
+        "artist": "Tamino",
+        "title": "Habibi"
+    },
+    {
+        "name": "Tamino - Indigo Night",
+        "path": "./assets/music/Tamino - Indigo Night.mp3",
+        "artist": "Tamino",
+        "title": "Indigo Night"
+    },
+    {
+        "name": "Tamino - You Don't Own Me",
+        "path": "./assets/music/Tamino - You Don't Own Me.mp3",
+        "artist": "Tamino",
+        "title": "You Don't Own Me"
+    },
+    {
+        "name": "Frank Sinatra - I Love You Baby.mp3",
+        "path": "./assets/music/Frank Sinatra - I Love You Baby.mp3",
+        "artist": "Frank Sinatra",
+        "title": "I Love You Baby"
+    },
+    {
+        "name": "Fujii Kaze - Shinunoga E-Wa.mp3",
+        "path": "./assets/music/Fujii Kaze - Shinunoga E-Wa.mp3",
+        "artist": "Fujii Kaze",
+        "title": "Shinunoga E-Wa"
+    },
+    {
+        "name": "George Michael - Careless Whisper.mp3",
+        "path": "./assets/music/George Michael - Careless Whisper.mp3",
+        "artist": "George Michael",
+        "title": "Careless Whisper"
+    },
+    {
+        "name": "Gym Class Heroes - Stereo Hearts.mp3",
+        "path": "./assets/music/Gym Class Heroes - Stereo Hearts.mp3",
+        "artist": "Gym Class Heroes",
+        "title": "Stereo Hearts"
+    },
+    {
+        "name": "Hamada Helal - Mastoul.mp3",
+        "path": "./assets/music/Hamada Helal - Mastoul.mp3",
+        "artist": "Hamada Helal",
+        "title": "Mastoul"
+    },
+    {
+        "name": "Jung Kook - Still With You.mp3",
+        "path": "./assets/music/Jung Kook - Still With You.mp3",
+        "artist": "Jung Kook",
+        "title": "Still With You"
+    },
+    {
+        "name": "The Weeknd - Save Your Tears",
+        "path": "./assets/music/The Weeknd - Save Your Tears.mp3",
+        "artist": "The Weeknd",
+        "title": "Save Your Tears"
+    },
+    {
+        "name": "The Weeknd, Ariana Grande - Die For You",
+        "path": "./assets/music/The Weeknd, Ariana Grande - Die For You.mp3",
+        "artist": "The Weeknd, Ariana Grande",
+        "title": "Die For You"
+    },
+    {
+        "name": "Frank Sinatra - Fly Me To The Moon",
+        "path": "./assets/music/Frank Sinatra - Fly Me To The Moon.mp3",
+        "artist": "Frank Sinatra",
+        "title": "Fly Me To The Moon"
+    },
+    {
+        "name": "Tom Odell - Another Love",
+        "path": "./assets/music/Tom Odell - Another Love.mp3",
+        "artist": "Tom Odell",
+        "title": "Another Love"
+    },
+    {
+        "name": "Måneskin  - I WANNA BE YOUR SLAVE",
+        "path": "./assets/music/Måneskin  - I WANNA BE YOUR SLAVE.mp3",
+        "artist": "Måneskin",
+        "title": "I WANNA BE YOUR SLAVE"
+    },
+    {
+        "name": "toyota",
+        "path": "./assets/music/toyota.mp3",
+        "artist": "Unknown",
+        "title": "toyota"
+    },
+    {
+        "name": "Ahmed Barada - Nisini w Ana Ganbak",
+        "path": "./assets/music/Ahmed Barada - Nisini w Ana Ganbak.mp3",
+        "artist": "Ahmed Barada",
+        "title": "Nisini w Ana Ganbak" 
+    },
+    {
+        "name": "Mayada El Hennawy - Ya Gnni Ya Takhodni Ma'ak",
+        "path": "./assets/music/Mayada El Hennawy - Ya Gnni Ya Takhodni Ma'ak.mp3",
+        "artist": "Mayada El Hennawy",
+        "title": "Ya tgeni ya ta5odni ma'ak"
+    },
+    {
+        "name": "The Weeknd - Blinding Lights",
+        "path": "./assets/music/The Weeknd - Blinding Lights.mp3",
+        "artist": "The Weeknd",
+        "title": "Blinding Lights"
+    },
+    {
+        "name": "Modern Talking - Cheri Cheri Lady",
+        "path": "./assets/music/Modern Talking - Cheri Cheri Lady.mp3",
+        "artist": "Modern Talking",
+        "title": "Cheri Cheri Lady"
+    },
+    {
+        "name": "Michael Bublé - Sway",
+        "path": "./assets/music/Michael Bublé - Sway.mp3",
+        "artist": "Michael Bublé",
+        "title": "Sway"
+    },
+    {
+        "name": "Lord Huron - The Night We Met",
+        "path": "./assets/music/Lord Huron - The Night We Met.mp3",
+        "artist": "Lord Huron",
+        "title": "The Night We Met"
+    },
+    {
+        "name": "Louis Armstrong - What A Wonderful World",
+        "path": "./assets/music/Louis Armstrong - What A Wonderful World.mp3",
+        "artist": "Louis Armstrong",
+        "title": "What A Wonderful World"
+    },
+    {
+        "name": "Manu Chao - Me Gustas Tu",
+        "path": "./assets/music/Manu Chao - Me Gustas Tu.mp3",
+        "artist": "Manu Chao",
+        "title": "Me Gustas Tu"
+    },
+    {
+        "name": "Maroon 5 - Memories",
+        "path": "./assets/music/Maroon 5 - Memories.mp3",
+        "artist": "Maroon 5",
+        "title": "Memories"
+    },
+    {
+        "name": "mehro - chance with you",
+        "path": "./assets/music/mehro - chance with you.mp3",
+        "artist": "mehro",
+        "title": "chance with you"
+    },
+    {
+        "name": "miki matsubara - stay With Me",
+        "path": "./assets/music/miki matsubara-stay With Me.mp3",
+        "artist": "miki matsubara",
+        "title": "Stay With Me"
+    },
+    {
+        "name": "Nawal - Mekhasmak",
+        "path": "./assets/music/Nawal - Mekhasmak.mp3",
+        "artist": "Nawal",
+        "title": "Mekhasmak"
+    },
+    {
+        "name": "Passenger - Let Her Go",
+        "path": "./assets/music/Passenger - Let Her Go.mp3",
+        "artist": "Passenger",
+        "title": "Let Her Go"
+    },
+    {
+        "name": "Ruby - Leih Beydari Keda",
+        "path": "./assets/music/Ruby - Leih Beydari Keda.mp3",
+        "artist": "Ruby",
+        "title": "Leih Beydari Keda"
+    },
+    {
+        "name": "sapientdream - Pastlives",
+        "path": "./assets/music/sapientdream - Pastlives.mp3",
+        "artist": "sapientdream",
+        "title": "Pastlives"
+    },
+    {
+        "name": "Spacetoon - Blazing Teens",
+        "path": "./assets/music/Spacetoon - Blazing Teens.mp3",
+        "artist": "Spacetoon",
+        "title": "Blazing Teens"
+    },
+    {
+        "name": "Stephen Sanchez, Em Beihold - Heaven",
+        "path": "./assets/music/Stephen Sanchez, Em Beihold - Heaven when I held you again (Until I Found You).mp3",
+        "artist": "Stephen Sanchez, Em Beihold",
+        "title": "Heaven"
+    },
+    {
+        "name": "Abdel Halim Hafez - Ala Hesb Wedad",
+        "path": "./assets/music/Abdel Halim Hafez - Ala Hesb Wedad.mp3",
+        "artist": "Abdel Halim Hafez",
+        "title": "Ala Hesb Wedad"
+    },
+    {
+        "name": "Alexander Rybak - Fairytale",
+        "path": "./assets/music/Alexander Rybak - Fairytale.mp3",
+        "artist": "Alexander Rybak",
+        "title": "Fairytale"
+    },
+    {
+        "name": "Amy Macdonald - This Is The Life",
+        "path": "./assets/music/Amy Macdonald - This Is The Life.mp3",
+        "artist": "Amy Macdonald",
+        "title": "This Is The Life"
+    },
+    {
+        "name": "Arnabeat - Leh Ya Hana",
+        "path": "./assets/music/Arnabeat - Leh Ya Hana.mp3",
+        "artist": "Arnabeat",
+        "title": "Leh Ya Hana"
+    },
+    {
+        "name": "Aurora - Runaway",
+        "path": "./assets/music/Aurora - Runaway.mp3",
+        "artist": "Aurora",
+        "title": "Runaway"
+    },
+    {
+        "name": "Beach House - Space Song",
+        "path": "./assets/music/Beach House - Space Song.mp3",
+        "artist": "Beach House",
+        "title": "Space Song"
+    },
+    {
+        "name": "Benson Boone - In The Stars",
+        "path": "./assets/music/Benson Boone - In The Stars.mp3",
+        "artist": "Benson Boone",
+        "title": "In The Stars"
+    },
+    {
+        "name": "Bill Withers - Just The Two Of Us",
+        "path": "./assets/music/Bill Withers  - Just The Two Of Us.mp3",
+        "artist": "Bill Withers",
+        "title": "Just The Two Of Us"
+    },
+    {
+        "name": "BTS - JUMP",
+        "path": "./assets/music/BTS - JUMP.mp3",
+        "artist": "BTS",
+        "title": "JUMP"
+    },
+    {
+        "name": "BTS - Just One Day",
+        "path": "./assets/music/BTS - Just One Day.mp3",
+        "artist": "BTS",
+        "title": "Just One Day"
+    },
+    {
+        "name": "Cigarettes After Sex - K.",
+        "path": "./assets/music/Cigarettes After Sex - K..mp3",
+        "artist": "Cigarettes After Sex",
+        "title": "K."
+    },
+    {
+        "name": "Cigarettes After Sex - Apocalypse",
+        "path": "./assets/music/Cigarettes After Sex - Apocalypse.mp3",
+        "artist": "Cigarettes After Sex",
+        "title": "Apocalypse"
+    },
+    {
+        "name": "Cigarettes After Sex - Sunsetz",
+        "path": "./assets/music/Cigarettes After Sex - Sunsetz.mp3",
+        "artist": "Cigarettes After Sex",
+        "title": "Sunsetz"
+    },
+    {
+        "name": "Engelbert Humperdinck - A Man Without Love",
+        "path": "./assets/music/Engelbert Humperdinck - A Man Without Love.mp3",
+        "artist": "Engelbert Humperdinck",
+        "title": "A Man Without Love"
+    },
+    {
+        "name": "Fairouz - Adesh Kan Fi Nas",
+        "path": "./assets/music/Fairouz - Adesh Kan Fi Nas.mp3",
+        "artist": "Fairouz",
+        "title": "Adesh Kan Fi Nas"
+    },
+    {
+        "name": "Fairouz - Ya Ana Ya Ana",
+        "path": "./assets/music/Fairouz - Ya Ana Ya Ana.mp3",
+        "artist": "Fairouz",
+        "title": "Ya Ana Ya Ana"
+    },
+    {
+        "name": "Fairouz - Ya Sahar El-Layali",
+        "path": "./assets/music/Fairouz - Ya Sahar El-Layali.mp3",
+        "artist": "Fairouz",
+        "title": "Ya Sahar El-Layali"
+    },
+    {
+        "name": "Fairouz - Habaitak Belsaif",
+        "path": "./assets/music/Fairouz - Habaitak Belsaif.mp3",
+        "artist": "Fairouz",
+        "title": "Habaitak Belsaif"
+    },
+    {
+        "name": "Lege-Cy - Placebo",
+        "path": "./assets/music/Lege-Cy - Placebo.mp3",
+        "artist": "Lege-Cy",
+        "title": "Placebo"
+    },
+    {
+        "name": "Lege-Cy - 3alsamet.mp3",
+        "path": "./assets/music/Lege-Cy - 3alsamet.mp3",
+        "artist": "Lege-Cy",
+        "title": "3alsamet"
+    },
+    {
+        "name": "Lege-Cy - 99 .mp3",
+        "path": "./assets/music/Lege-Cy - 99 .mp3",
+        "artist": "Lege-Cy",
+        "title": "99"
+    },
+    {
+        "name": "Lege-Cy - betadeen.mp3",
+        "path": "./assets/music/Lege-Cy - betadeen.mp3",
+        "artist": "Lege-Cy",
+        "title": "betadeen"
+    },
+    {
+        "name": "Lege-Cy - Bkam (Intro).mp3",
+        "path": "./assets/music/Lege-Cy - Bkam (Intro).mp3",
+        "artist": "Lege-Cy",
+        "title": "Bkam (Intro)"
+    },
+    {
+        "name": "Lege-Cy - Break Dance.mp3",
+        "path": "./assets/music/Lege-Cy - Break Dance.mp3",
+        "artist": "Lege-Cy",
+        "title": "Break Dance"
+    },
+    {
+        "name": "Lege-Cy - Fel Galeed.mp3",
+        "path": "./assets/music/Lege-Cy - Fel Galeed.mp3",
+        "artist": "Lege-Cy",
+        "title": "Fel Galeed"
+    },
+    {
+        "name": "Lege-Cy - kamadaat.mp3",
+        "path": "./assets/music/Lege-Cy - kamadaat.mp3",
+        "artist": "Lege-Cy",
+        "title": "kamadaat"
+    },
+    {
+        "name": "Lege-Cy - kaza_w_kaza.mp3",
+        "path": "./assets/music/Lege-Cy - kaza_w_kaza.mp3",
+        "artist": "Lege-Cy",
+        "title": "kaza_w_kaza"
+    },
+    {
+        "name": "Lege-Cy - Kopykats .mp3",
+        "path": "./assets/music/Lege-Cy - Kopykats .mp3",
+        "artist": "Lege-Cy",
+        "title": "Kopykats"
+    },
+    {
+        "name": "Lege-Cy - Lamma Tgheby.mp3",
+        "path": "./assets/music/Lege-Cy - Lamma Tgheby.mp3",
+        "artist": "Lege-Cy",
+        "title": "Lamma Tgheby"
+    },
+    {
+        "name": "Lege-Cy - mafesh_mane3.mp3",
+        "path": "./assets/music/Lege-Cy - mafesh_mane3.mp3",
+        "artist": "Lege-Cy",
+        "title": "mafesh_mane3"
+    },
+    {
+        "name": "Lege-Cy - Msh Da Elle Ekhtarto .mp3",
+        "path": "./assets/music/Lege-Cy - Msh Da Elle Ekhtarto .mp3",
+        "artist": "Lege-Cy",
+        "title": "Msh Da Elle Ekhtarto"
+    },
+    {
+        "name": "Lege-Cy - Msh True.mp3",
+        "path": "./assets/music/Lege-Cy - Msh True.mp3",
+        "artist": "Lege-Cy",
+        "title": "Msh True"
+    }
+]
+
+
